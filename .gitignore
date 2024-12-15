@@ -1,0 +1,7 @@
+node_modules
+client/node_modules
+cert
+server/.env
+server/node_modules
+bookstore-c1443-firebase-adminsdk-uysqk-7f7df0fc74.json
+firebaseAdmin.js
