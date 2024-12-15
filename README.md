@@ -88,7 +88,7 @@ How to Use the Application:
 Open the application in your web browser at https://localhost:5173 (for local development).
 Upon visiting the homepage, you can browse the books, view detailed information, and use the navigation options available.
 
-3. User Authentication
+2. User Authentication
 Sign Up
 Click on the Sign Up button to create a new user account.
 Enter your email, password, and any other required details.
@@ -102,7 +102,7 @@ After successful login, you will be redirected to the homepage.
 Log Out
 Click on the Log Out button in the top-right corner to log out of your account.
 
-5. Browsing Books
+3. Browsing Books
 The homepage displays a list of books.
 Scroll through the list and click on any book to view more detailed information, including:
 Book Title
@@ -110,13 +110,13 @@ Author
 Description
 Book PDF link (if available)
 
-7. Dashboard 
+4. Dashboard 
 Once logged in, you will have access to the Dashboard where you can manage the bookstore's inventory.
 From the dashboard, Users can:
 Add New Books: Add new books to the inventory by filling out a form with the book’s details.
 Manage Books: Update or delete existing books.
 View User List: See the list of registered users in the system.
 
-8. Mobile View
+5. Mobile View
 The application is fully responsive and designed to work well on mobile devices.
 On smaller screens, the layout will adjust to fit the screen size for better navigation.
