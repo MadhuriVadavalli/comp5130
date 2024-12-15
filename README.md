@@ -120,4 +120,3 @@ View User List: See the list of registered users in the system.
 8. Mobile View
 The application is fully responsive and designed to work well on mobile devices.
 On smaller screens, the layout will adjust to fit the screen size for better navigation.
-
